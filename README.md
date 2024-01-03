@@ -1,4 +1,4 @@
-# Python Learning Journey
+# Python Learning Journey 💫
 
 Welcome to my Python learning journey repository! This collection features beginner-level Python programs, covering fundamentals and key concepts. Feel free to explore, modify, and contribute to enhance the learning experience for everyone.
 
@@ -9,4 +9,4 @@ Welcome to my Python learning journey repository! This collection features begin
 2. **Modify:** Make changes to adapt the code or experiment with your ideas.
 3. **Contribute:** Share your improvements to help others in their learning journey.
 <br>
-<h2>Happy Coding!</h2>
+<h2>Happy Coding!✨</h2>
