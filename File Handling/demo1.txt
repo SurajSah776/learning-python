@@ -1,0 +1,2 @@
+Writing a this line to demo1.txt using "w" mode
+Appending this line to a file

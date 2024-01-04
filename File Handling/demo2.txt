@@ -1,0 +1,8 @@
+Hey there
+We are using writelines() method
+to write multiple lines to a file
+Hey there!!!
+We are using alternative of writelines() method
+
+to write multiple lines in a file
+
